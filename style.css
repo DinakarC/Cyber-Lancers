@@ -7,7 +7,7 @@ body {
   display: inline-block;
   margin: 0;
   height: 100vh;
-  background-image: url(image/mountains-upscaled.png);
+  background-image: url(mountains-upscaled.png);
 }
 .head {
   border: 2px solid black;
